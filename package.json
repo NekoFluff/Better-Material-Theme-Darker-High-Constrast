@@ -2,7 +2,7 @@
     "name": "bettermaterialthemedarkerhighcontrast",
     "displayName": "Better Material Theme Darker High Contrast",
     "description": "A better Material Theme Darker High Contrast",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.81.0"
     },
