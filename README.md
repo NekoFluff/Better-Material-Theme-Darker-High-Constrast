@@ -1,16 +1,21 @@
-# better-material-theme-darker-high-contrast README
+# Better Material Theme Darker High Contrast
 
-## Working with Markdown
+A **"better"** version of Material Theme's **Darker High Contrast** (v2.9.0).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Changes
+- Made line numbers and comments easier to read so it's less eye straining
+- Overview ruler on the right includes brighter colors
+- Cursor and current line no. are green
+- Status bar has become bright green (easier to read!)
+- Code change markers in the gutter (left side) are brigher.
+    - Bright red for code deletions, bright green for additions, and yellow for code changes.
+- Editor inlay hints are less visible to not be confused with actual code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Additional Links
 
-## For more information
+Check these out to edit the theme to your liking!
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Color Themes](https://code.visualstudio.com/docs/getstarted/themes)
+- [Visual Studio Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
 
 **Enjoy!**
