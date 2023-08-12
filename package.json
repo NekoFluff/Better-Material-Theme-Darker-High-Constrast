@@ -22,5 +22,6 @@
         "type": "git",
         "url": "git@github.com:NekoFluff/Better-Material-Theme-Darker-High-Constrast.git"
     },
-    "publisher": "CrazyFluff"
+    "publisher": "CrazyFluff",
+    "icon": "icon.png"
 }
