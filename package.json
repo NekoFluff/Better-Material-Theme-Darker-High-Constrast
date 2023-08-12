@@ -1,0 +1,21 @@
+{
+    "name": "better-material-theme-darker-high-contrast",
+    "displayName": "Better Material Theme Darker High Contrast",
+    "description": "temp-desc",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.81.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Better Material Theme Darker High Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Better Material Theme Darker High Contrast-color-theme.json"
+            }
+        ]
+    }
+}
