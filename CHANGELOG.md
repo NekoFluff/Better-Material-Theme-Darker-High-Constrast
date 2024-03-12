@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4]
+
+- Changed the highlight color when searching keywords to a light blue color. This helps when searching for keywords on an html page.
+
 ## [v1.0.3]
 
 ### Added
@@ -14,11 +18,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [v1.0.2]
 
 ### Changed
+
 - Updated readme
 
 ## [v1.0.1]
 
 ### Added
+
 - Editor inlay hints are less visible to not be confused actual code
 
 ## [v1.0.0]
